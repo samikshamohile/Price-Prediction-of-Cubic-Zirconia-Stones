@@ -1,6 +1,7 @@
 # Price-Prediction-of-Cubic-Zirconia-Stones
 
 Problem Statement
+
 The objective of this project is to predict the price of cubic zirconia stones based on their physical and categorical attributes such as carat, cut, color, clarity, depth, table, and dimensions (x, y, z). Accurate price prediction is important in the jewelry and gemstone industry, where pricing decisions depend on a complex interplay of these features. By applying data preprocessing, exploratory analysis, and different machine learning algorithms, this project aims to identify the most important predictors of price and evaluate the effectiveness of linear and nonlinear models.
 
 Data Cleaning and Preprocessing
